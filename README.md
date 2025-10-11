@@ -1,5 +1,6 @@
 wse
 
 
-osds
+osd
 
+sse
